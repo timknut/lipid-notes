@@ -1,7 +1,14 @@
 Lipid-notes
 ===========
 
+## Contents
+
+
 ## Chap 5. Oxidation of fatty acids in eukaryotes
+
+Fettsyre: Karboksylsyre med lang karbonkjede. Karboksylsyre
+General Fatty Acid Formula
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Carboxylic-acid.svg/300px-Carboxylic-acid.svg.png)
 
 FA oxidation on [Wikpedia](http://en.wikipedia.org/wiki/Beta_oxidation)
 In the words of Wikipedia:
