@@ -1,9 +1,5 @@
 Lipid-notes
 ===========
-
-## Contents
-
-
 ## Chap 5. Oxidation of fatty acids in eukaryotes
 
 Fettsyre: Karboksylsyre med lang karbonkjede. Karboksylsyre
