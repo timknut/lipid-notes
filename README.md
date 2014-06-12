@@ -1,7 +1,7 @@
 Lipid-notes
 ===========
 ## Cahpter 7 fatty acid synthesis
-![](http://www.youtube.com/watch?v=6YV0bHzHAfw)
+[Khan Academy on Syntese](http://www.youtube.com/watch?v=6YV0bHzHAfw)
 
 
 ## Chap 5. Oxidation of fatty acids in eukaryotes
