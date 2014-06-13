@@ -1,6 +1,9 @@
 Lipid-notes
 ===========
 ## Cahpter 7 fatty acid synthesis
+### I simpleste form handler FAS om å kombinere Acetyl CoA (2 C) til Palmitin-Syre (16 C) i en energikrevende sirkelreaksjon. ATP + H20 -> ADP + H+
+* Palmitinsyre brukes videre som utgangspunkt for å lage lengre fettsyrer og for å legge til dobbeltbindinger.
+
 [Khan Academy on Syntese](http://www.youtube.com/watch?v=6YV0bHzHAfw)
 > Fatty acid synthesis starts with the carboxylation of acetyl CoA to malonyl CoA. This irreversible reaction is the committed step in fatty acid synthesis
 
