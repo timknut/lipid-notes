@@ -7,7 +7,10 @@ Lipid-notes
 ![](http://www.ncbi.nlm.nih.gov/books/NBK22554/bin/ch22fu14.jpg)
 * The enzyme system that catalyzes the synthesis of saturated long-chain fatty acids from acetyl CoA, malonyl CoA, and NADPH is called the fatty acid synthase
 * Fatty acids are synthesized by the repetition of the following reaction sequence: condensation, reduction, dehydration, and reduction.
-* 
+* The growing fatty acid chain is elongated by the sequential addition of two-carbon units derived from acetyl CoA. The activated donor of twocarbon units in the elongation step is malonyl ACP.(Acyl carrier protein) 
+* Fatty acids are synthesized in the cytosol, whereas acetyl CoA is formed from pyruvate in mitochondria. Hence, acetyl CoA must be transferred from mitochondria to the cytosol. *The barrier to acetyl CoA is bypassed by citrate, which carries acetyl groups across the inner mitochondrial membrane*
+
+* **Elongation by the fatty acid synthase complex stops on formation of palmitate (C16). *Further elongation and the insertion of double bonds are carried out by other enzyme systems*.** 
 
 ## Chap 5. Oxidation of fatty acids in eukaryotes
 
