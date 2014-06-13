@@ -2,7 +2,12 @@ Lipid-notes
 ===========
 ## Cahpter 7 fatty acid synthesis
 [Khan Academy on Syntese](http://www.youtube.com/watch?v=6YV0bHzHAfw)
+> Fatty acid synthesis starts with the carboxylation of acetyl CoA to malonyl CoA. This irreversible reaction is the committed step in fatty acid synthesis
 
+![](http://www.ncbi.nlm.nih.gov/books/NBK22554/bin/ch22fu14.jpg)
+* The enzyme system that catalyzes the synthesis of saturated long-chain fatty acids from acetyl CoA, malonyl CoA, and NADPH is called the fatty acid synthase
+* Fatty acids are synthesized by the repetition of the following reaction sequence: condensation, reduction, dehydration, and reduction.
+* 
 
 ## Chap 5. Oxidation of fatty acids in eukaryotes
 
