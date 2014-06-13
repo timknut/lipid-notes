@@ -1,7 +1,8 @@
 Lipid-notes
 ===========
 ## Cahpter 7 fatty acid synthesis
-### I simpleste form handler FAS om å kombinere Acetyl-CoA (2 C) til Palmitin-Syre (16 C) i en energikrevende sirkelreaksjon. ATP + H20 -> ADP + H+
+* I simpleste form handler FAS om å kombinere Acetyl-CoA (2 C) til Palmitin-Syre (16 C) i en energikrevende sirkelreaksjon. ATP + H20 -> ADP + H+
+
 #### Regnskapet for en hel runde fra Acetyl-CoA til palmitate blir da:
 ![](http://www.ncbi.nlm.nih.gov/books/NBK22554/bin/ch22e14.jpg)
 
