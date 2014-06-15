@@ -49,8 +49,15 @@ Neg Regulering:
 * Fettsyrer trenger å transporteres fra *cytosol* til Mitokondriemembran.
 * Carnitine Acyl transferase I. 
 
+1. Aktivere Fettsyren.
+ * Legge til Carnitin
+2. Transport inn i mitokondriell matrix.
+3. Beta-oksidasjon
+ * Lager NADH og FADH2 til elktrontransportkjeden og prod av ATP.
+
+
 #### Beta oksydasjon
-Hvert andre C fra karboksyl-ende av acyl-CoA bli oksydert til Acetyl CoA og prod Reduksjonsagenter for ATP-prod.
+Hvert andre C fra karbonyl-ende av acyl-CoA bli oksydert til Acetyl CoA og prod Reduksjonsagenter for ATP-prod.
 
 #### Regulering
 Malonyl-CoA alosteriks hemmer av *Carnitine Acyl transferase I*
