@@ -28,6 +28,22 @@ Dette kommer via citrat som passerer mitokondriemembranen.
 * Fatty acids are synthesized in the cytosol, whereas acetyl CoA is formed from pyruvate in mitochondria. Hence, acetyl CoA must be transferred from mitochondria to the cytosol. *The barrier to acetyl CoA is bypassed by citrate, which carries acetyl groups across the inner mitochondrial membrane*
 * **Elongation by the fatty acid synthase complex stops on formation of palmitate (C16). *Further elongation and the insertion of double bonds are carried out by other enzyme systems*.** 
 
+**Endelig skjebne**
+*Fettsyrene blir koblet på glycerol til triaceyl-glyserider og syntetisert til VLDL i leveren og transportert til resten av kroppen*
+
+#### Regulering
+**Acetyl-CoA karboksylase** Rate limiting enzyme..
+1. Legger til karboksylgruppe til Acetyl-CoA --> Malonyl-CoA.
+Pos regulering:
+  * Alosterisk (molekyl fester seg på anne sted på enzymet) ved **Citrat** Regulerer oppover/fremover-
+  * Hormonell: Insulin (Trenger fettsyresyntese etter høy glukose i blodet)
+Neg Regulering:
+  * Hormonell:Glukagon (Bryter ned fettsyrer for energi.)
+  * Alosterisk: Langkjedede fettsyrer. (Neg tilbakekobling)
+
+
+
+
 ## Chap 5. Oxidation of fatty acids in eukaryotes
 
 Fettsyre: Karboksylsyre med lang karbonkjede. Karboksylsyre
