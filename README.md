@@ -45,6 +45,17 @@ Neg Regulering:
 
 
 ## Chap 5. Oxidation of fatty acids in eukaryotes
+#### Generell bakgrunn:
+* Fettsyrer trenger å transporteres fra *cytosol* til Mitokondriemembran.
+* Carnitine Acyl transferase I. 
+
+#### Beta oksydasjon
+Hvert andre C fra karboksyl-ende av acyl-CoA bli oksydert til Acetyl CoA og prod Reduksjonsagenter for ATP-prod.
+
+#### Regulering
+Malonyl-CoA alosteriks hemmer av *Carnitine Acyl transferase I*
+
+**All produksjon av energi skjer i mitokondriet, både Oksidering samt celleånding. Krebs-syklus.**
 
 Fettsyre: Karboksylsyre med lang karbonkjede. Karboksylsyre
 General Fatty Acid Formula
