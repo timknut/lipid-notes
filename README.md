@@ -64,6 +64,9 @@ Malonyl-CoA alosteriks hemmer av *Carnitine Acyl transferase I*
 
 **All produksjon av energi skjer i mitokondriet, både Oksidering samt celleånding. Krebs-syklus.**
 
+#### 3.3 β-oxidation of unsaturated fatty acids
+Legg til mer tekst.
+
 Fettsyre: Karboksylsyre med lang karbonkjede. Karboksylsyre
 General Fatty Acid Formula
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Carboxylic-acid.svg/300px-Carboxylic-acid.svg.png)
