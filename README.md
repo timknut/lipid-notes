@@ -158,3 +158,11 @@ Linolenic acid is an unsaturated fatty acid that is an essential fatty acid in m
 **Involvement of LDL receptors in cholesterol uptake and metabolism**
 ![](http://www.pearsonhighered.com/mathews/ch18/fi18p10.gif)
 
+#### Mutations
+**Phenotypes of the LDL receptor mutations in FH individuals are as follows:**
+
+1. Reductions in amount of LDL receptor made;
+2. LDL receptor is made, but it fails to migrate to plasma membrane;
+3. LDL receptor is in plasma membrane, but it fails to bind LDL; and
+4. LDL receptor is in plasma membrane and binds LDL, but it fails to cluster in coated pits.
+
