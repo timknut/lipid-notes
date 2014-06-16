@@ -1,7 +1,20 @@
 Lipid-notes
 ===========
 ## Chapter 7 Desaturation and chain elongation.
+#### Denovo synthetised fettsyrer med 16C eller mer, blir modifisert i:
+1. ER
+2. Mitokondrier
+3. Perixosomer
 
+> "The major product of the fatty acid synthase is palmitate. In eukaryotes, longer fatty acids are formed by elongation reactions catalyzed by enzymes on the cytosolic face of the endoplasmic reticulum membrane. These reactions add two-carbon units sequentially to the carboxyl ends of both saturated and unsaturated fatty acyl CoA substrates. Malonyl CoA is the two-carbon donor in the elongation of fatty acyl CoAs. Again, condensation is driven by the decarboxylation of malonyl CoA."
+
+> "Uses acyl-CoAs, Malonyl-CoAs, and NADPH (Diagram 1, #2)"
+
+1. Kondensering mellom Malonyl-CoA og long kjedet fettsyre acyl-CoA-substrat.
+![](http://www.pearsonhighered.com/mathews/ch18/sp6532.gif)
+
+2.
+![](http://www.pearsonhighered.com/mathews/ch18/sp6533.gif)
 
 
 ## Cahpter 6 fatty acid synthesis
