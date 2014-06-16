@@ -1,6 +1,10 @@
 Lipid-notes
 ===========
-## Cahpter 7 fatty acid synthesis
+## Chapter 7 Desaturation and chain elongation.
+
+
+
+## Cahpter 6 fatty acid synthesis
 
 ##### Først og fremst: 
 ** Bakgrunn:
