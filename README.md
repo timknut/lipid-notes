@@ -1,7 +1,8 @@
 Lipid-notes
 ===========
 ## Chapter 7 Desaturation and chain elongation.
-#### Denovo synthetised fettsyrer med 16C eller mer, blir modifisert i:
+##### Elongering
+**Fettsyrer med 16C eller mer, blir modifisert i:**
 1. ER
 2. Mitokondrier
 3. Perixosomer
@@ -14,12 +15,25 @@ Lipid-notes
 ![](http://www.pearsonhighered.com/mathews/ch18/sp6532.gif)
 
 
-
 2. 
  
 
 ![](http://www.pearsonhighered.com/mathews/ch18/sp6533.gif)
 
+**Desaturering**
+
+*Fatty acid desaturation system*
+
+![](http://www.pearsonhighered.com/mathews/ch18/fi18p32.gif)
+
+The enzyme that **creates oleic acid and palmitoleic acid** from **stearate and palmitate**, respectively, is called a "DELTA-9" enzyme, because it creates a double bond nine carbons from the carboxyl group of the fatty acids. Similar enzymes in mammalian systems include 5 and 6 desaturases, which are under complex hormonal control.
+
+
+**Esensielle fettsyrer**
+Linolenic acid is an unsaturated fatty acid that is an essential fatty acid in mammals because they cannot synthesize double bonds in fatty acids beyond position `DELTA-9`. This makes linoleic acid and linolenic acid essential in mammalian diets, since they have double bonds beyond position `DELTA-9` (at positions 9,12 and at positions 9,12, and 15 for linoleic and linolenic acid, respectively).
+
+
+![](http://www.pearsonhighered.com/mathews/KL/LINOLEN.GIF)
 
 ## Cahpter 6 fatty acid synthesis
 ##### Først og fremst: 
