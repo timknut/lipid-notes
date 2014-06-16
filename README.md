@@ -1,9 +1,7 @@
 Lipid-notes
 ===========
-
-
 ## Cahpter 6 fatty acid synthesis
-##### Først og fremst: 
+**Først og fremst:** 
 #### Forholdet mellom Karbohydrat og Lipid-syntese
 ![](http://www.pearsonhighered.com/mathews/ch18/fi18p22.gif)
 #### Likheter mellom oksidasjon og syntese:
@@ -16,7 +14,7 @@ Dette kommer via citrat som passerer mitokondriemembranen.
 ![](http://www.ncbi.nlm.nih.gov/books/NBK22554/bin/ch22f25.jpg)
 * I simpleste form handler FAS om å kombinere Acetyl-CoA (2 C) til Palmitin-Syre (16 C) i en energikrevende sirkelreaksjon. ATP + H20 -> ADP + H+
 
-#### Regnskapet for en hel runde fra Acetyl-CoA til palmitate blir da:
+**Regnskapet for en hel runde fra Acetyl-CoA til palmitate blir da:**
 ![](http://www.ncbi.nlm.nih.gov/books/NBK22554/bin/ch22e14.jpg)
 
 * *Palmitinsyre brukes videre som utgangspunkt for å lage lengre fettsyrer og for å legge til dobbeltbindinger.*
