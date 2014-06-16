@@ -120,14 +120,11 @@ FADH2
 ![](http://www.pearsonhighered.com/mathews/ch18/sp6533.gif)
 
 #### Viktige enzymer
-**Elovl 1-7**
-	Elongation of very long chain fatty acids
 
-**Elongering av SFA og MUFA**
-	Elovl 1,3 og 6 --> **C16 opp til c24**
-
-**PUFA synthetis**
-	Elovl 2 og 4
+**Elongation of very long chain fatty acids**
+* Elovl 1-7**
+* Elovl 1,3 og 6 (Elongering av SFA og MUFA. (C16 opp til c24)
+* Elovl 2 og 4 (**PUFA synthetis**)
 
 #### Desaturering
 
