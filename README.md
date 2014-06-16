@@ -5,7 +5,6 @@ Lipid-notes
 
 
 ## Cahpter 6 fatty acid synthesis
-
 ##### Først og fremst: 
 #### Forholdet mellom Karbohydrat og Lipid-syntese
 ![](http://www.pearsonhighered.com/mathews/ch18/fi18p22.gif)
@@ -21,8 +20,6 @@ Dette kommer via citrat som passerer mitokondriemembranen.
 
 #### Regnskapet for en hel runde fra Acetyl-CoA til palmitate blir da:
 ![](http://www.ncbi.nlm.nih.gov/books/NBK22554/bin/ch22e14.jpg)
-
-
 
 * *Palmitinsyre brukes videre som utgangspunkt for å lage lengre fettsyrer og for å legge til dobbeltbindinger.*
 
