@@ -13,6 +13,7 @@ Lipid-notes
 1. Kondensering mellom Malonyl-CoA og long kjedet fettsyre acyl-CoA-substrat.
 ![](http://www.pearsonhighered.com/mathews/ch18/sp6532.gif)
 
+
 2.
 ![](http://www.pearsonhighered.com/mathews/ch18/sp6533.gif)
 
