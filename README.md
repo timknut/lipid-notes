@@ -1,20 +1,3 @@
-**Table of Contents**
-
-- [Lipid-notes](#user-content-lipid-notes)
-	- [Cahpter 6 fatty acid synthesis](#user-content-cahpter-6-fatty-acid-synthesis)
-			- [Forholdet mellom Karbohydrat og Lipid-syntese](#user-content-forholdet-mellom-karbohydrat-og-lipid-syntese)
-			- [Likheter mellom oksidasjon og syntese:](#user-content-likheter-mellom-oksidasjon-og-syntese)
-			- [Regulering](#user-content-regulering)
-	- [Chap 5. Oxidation of fatty acids in eukaryotes](#user-content-chap-5-oxidation-of-fatty-acids-in-eukaryotes)
-			- [Generell bakgrunn:](#user-content-generell-bakgrunn)
-			- [Beta oksydasjon](#user-content-beta-oksydasjon)
-			- [Regulering](#user-content-regulering-1)
-			- [3.3 β-oxidation of unsaturated fatty acids](#user-content-33-%CE%B2-oxidation-of-unsaturated-fatty-acids)
-	- [Chapter 7 Desaturation and chain elongation.](#user-content-chapter-7-desaturation-and-chain-elongation)
-				- [Elongering](#user-content-elongering)
-
-Lipid-notes
-===========
 ## Cahpter 6 fatty acid synthesis
 **Først og fremst:** 
 #### Forholdet mellom Karbohydrat og Lipid-syntese
