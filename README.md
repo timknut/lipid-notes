@@ -1,39 +1,5 @@
 Lipid-notes
 ===========
-## Chapter 7 Desaturation and chain elongation.
-##### Elongering
-**Fettsyrer med 16C eller mer, blir modifisert i:**
-1. ER
-2. Mitokondrier
-3. Perixosomer
-
-> "The major product of the fatty acid synthase is palmitate. In eukaryotes, longer fatty acids are formed by elongation reactions catalyzed by enzymes on the cytosolic face of the endoplasmic reticulum membrane. These reactions add two-carbon units sequentially to the carboxyl ends of both saturated and unsaturated fatty acyl CoA substrates. Malonyl CoA is the two-carbon donor in the elongation of fatty acyl CoAs. Again, condensation is driven by the decarboxylation of malonyl CoA."
-
-> "Uses acyl-CoAs, Malonyl-CoAs, and NADPH (Diagram 1, #2)"
-
-1. Kondensering mellom Malonyl-CoA og long kjedet fettsyre acyl-CoA-substrat.
-![](http://www.pearsonhighered.com/mathews/ch18/sp6532.gif)
-
-
-2. 
- 
-
-![](http://www.pearsonhighered.com/mathews/ch18/sp6533.gif)
-
-**Desaturering**
-
-*Fatty acid desaturation system*
-
-![](http://www.pearsonhighered.com/mathews/ch18/fi18p32.gif)
-
-The enzyme that **creates oleic acid and palmitoleic acid** from **stearate and palmitate**, respectively, is called a "DELTA-9" enzyme, because it creates a double bond nine carbons from the carboxyl group of the fatty acids. Similar enzymes in mammalian systems include 5 and 6 desaturases, which are under complex hormonal control.
-
-
-**Esensielle fettsyrer**
-Linolenic acid is an unsaturated fatty acid that is an essential fatty acid in mammals because they cannot synthesize double bonds in fatty acids beyond position `DELTA-9`. This makes linoleic acid and linolenic acid essential in mammalian diets, since they have double bonds beyond position `DELTA-9` (at positions 9,12 and at positions 9,12, and 15 for linoleic and linolenic acid, respectively).
-
-
-![](http://www.pearsonhighered.com/mathews/KL/LINOLEN.GIF)
 
 ## Cahpter 6 fatty acid synthesis
 ##### Først og fremst: 
@@ -118,3 +84,39 @@ NADH
 
 FADH2
 >  flavin adenine dinucleotide (FAD) is a redox cofactor involved in several important reactions in metabolism. 
+
+
+## Chapter 7 Desaturation and chain elongation.
+##### Elongering
+**Fettsyrer med 16C eller mer, blir modifisert i:**
+1. ER
+2. Mitokondrier
+3. Perixosomer
+
+> "The major product of the fatty acid synthase is palmitate. In eukaryotes, longer fatty acids are formed by elongation reactions catalyzed by enzymes on the cytosolic face of the endoplasmic reticulum membrane. These reactions add two-carbon units sequentially to the carboxyl ends of both saturated and unsaturated fatty acyl CoA substrates. Malonyl CoA is the two-carbon donor in the elongation of fatty acyl CoAs. Again, condensation is driven by the decarboxylation of malonyl CoA."
+
+> "Uses acyl-CoAs, Malonyl-CoAs, and NADPH (Diagram 1, #2)"
+
+1. Kondensering mellom Malonyl-CoA og long kjedet fettsyre acyl-CoA-substrat.
+![](http://www.pearsonhighered.com/mathews/ch18/sp6532.gif)
+
+
+2. 
+ 
+
+![](http://www.pearsonhighered.com/mathews/ch18/sp6533.gif)
+
+**Desaturering**
+
+*Fatty acid desaturation system*
+
+![](http://www.pearsonhighered.com/mathews/ch18/fi18p32.gif)
+
+The enzyme that **creates oleic acid and palmitoleic acid** from **stearate and palmitate**, respectively, is called a "DELTA-9" enzyme, because it creates a double bond nine carbons from the carboxyl group of the fatty acids. Similar enzymes in mammalian systems include 5 and 6 desaturases, which are under complex hormonal control.
+
+
+**Esensielle fettsyrer**
+Linolenic acid is an unsaturated fatty acid that is an essential fatty acid in mammals because they cannot synthesize double bonds in fatty acids beyond position `DELTA-9`. This makes linoleic acid and linolenic acid essential in mammalian diets, since they have double bonds beyond position `DELTA-9` (at positions 9,12 and at positions 9,12, and 15 for linoleic and linolenic acid, respectively).
+
+
+![](http://www.pearsonhighered.com/mathews/KL/LINOLEN.GIF)
