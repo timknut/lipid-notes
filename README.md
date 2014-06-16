@@ -102,6 +102,7 @@ FADH2
 ## Chapter 7 Desaturation and chain elongation.
 ##### Elongering
 **Fettsyrer med 16C eller mer, blir modifisert i:**
+
 1. ER
 2. Mitokondrier
 3. Perixosomer
