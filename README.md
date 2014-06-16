@@ -21,6 +21,9 @@ Lipidnotater
 #### Likheter mellom oksidasjon og syntese:
 ![](http://www.pearsonhighered.com/mathews/ch18/fi18p23.gif)
 
+##### Oversikt
+![](http://www.pearsonhighered.com/mathews/ch18/fi18p1.gif)
+
 **Bakgrunn:**
 Substratet for Fettsyresyntese er Acetyl-CoA. Et produkt i sitronsyresyklus der glukose omdannes til energi.
 Dette kommer via citrat som passerer mitokondriemembranen. 
@@ -141,3 +144,11 @@ Linolenic acid is an unsaturated fatty acid that is an essential fatty acid in m
 
 
 ![](http://www.pearsonhighered.com/mathews/KL/LINOLEN.GIF)
+
+
+## Lipoprotein Receptors
+
+#### LDL receptors
+**Involvement of LDL receptors in cholesterol uptake and metabolism**
+![](http://www.pearsonhighered.com/mathews/ch18/fi18p10.gif)
+
