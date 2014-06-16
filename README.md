@@ -14,8 +14,7 @@ Lipid-notes
 ![](http://www.pearsonhighered.com/mathews/ch18/sp6532.gif)
 
 
-2.
-![](http://www.pearsonhighered.com/mathews/ch18/sp6533.gif)
+2. ![](http://www.pearsonhighered.com/mathews/ch18/sp6533.gif)
 
 
 ## Cahpter 6 fatty acid synthesis
