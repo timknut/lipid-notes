@@ -1,6 +1,7 @@
 Lipid-notes
 ===========
 
+
 ## Cahpter 6 fatty acid synthesis
 ##### Først og fremst: 
 #### Forholdet mellom Karbohydrat og Lipid-syntese
