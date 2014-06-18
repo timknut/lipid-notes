@@ -183,13 +183,12 @@ Linolenic acid is an unsaturated fatty acid that is an essential fatty acid in m
 **The tran-scription factors, SREBP-Ic, PPAR-a, LXR, and carbohydrate response element binding protein (ChREBP) play key roles in the regulation of desaturases and elongases.**
 
 * Ekspresjon av desaturaser og elongaser er regulert av flere næringstoffer og hormoner.
+
 **MUFA**
 * *Negativ regulering* **Faktorene under binder seg til til sitt regulatoriske element i promotoren** Hemmer ekpresjon av desaturaser og elongaser.
 * ChREBP
 * SREBP
 * LXR
-* *Positiv regulering*
-* PPAR har egentlig en 
 
 ![](https://258d512808b0f5199b6dcbfc8cea06f659c3242d.googledrive.com/host/0B-ZoxC2RSriJeXgyT0dNeVJSOWM/Skjermbilde_reg.PNG)
 
