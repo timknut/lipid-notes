@@ -77,8 +77,6 @@ Dette kommer via citrat som passerer mitokondriemembranen.
   * Alosterisk: Langkjedede fettsyrer. (Neg tilbakekobling)
 
 
-
-
 ## Chap 5. Oxidation of fatty acids in eukaryotes
 #### Generell bakgrunn:
 * Fettsyrer trenger å transporteres fra *cytosol* til Mitokondriemembran.
@@ -104,7 +102,7 @@ NADH
 FADH2
 >  flavin adenine dinucleotide (FAD) is a redox cofactor involved in several important reactions in metabolism.
 
-#### Beta oksydasjon
+#### Beta oksidasjon
 Hvert andre C fra karbonyl-ende av acyl-CoA bli oksydert til Acetyl CoA og prod Reduksjonsagenter for ATP-prod.
 
 FA oxidation on [Wikpedia](http://en.wikipedia.org/wiki/Beta_oxidation)
@@ -137,8 +135,13 @@ Enoyl-CoA Hydratase, a key enzyme in -oxidation of saturated fatty acids, acts o
 
 * It should be noted that enoyl-CoA isomerase and 2,4-dienoyl-CoA reductase only help metabolize **dietary** unsaturated fatty acids with double bonds in the **cis configuration**. Dietary fatty acids with **trans double bonds are not** readily metabolized and may pose a health hazard.
 
+**Take home message**
+* Enoyl CoA hydratase må ha hjelp av ytterligere to enzymer for okisdasjon av umettede fettsyrer. Kun cis bindinger er brukbare, og trans-bindinger vil ikke brytes ned til energi og med sin mettede struktur skaper de problemer i kroppen.
+
 #### Regulering
-Malonyl-CoA alosteriks hemmer av *Carnitine Acyl transferase I*
+* **Positiv:** I hovedsak styres graden av oksidasjon i cellene av substratetts tilgjengelighet. Dette er igjen avhengig av hormonell aktivitet.  **Glucagon** og **Ephinephrine** stimulerere release av fettsyrer og opphopning av disse i celler og økt oksidasjon. 
+* **Negativ:** *Malonyl-CoA* alosterisk hemmer av *Carnitine Acyl transferase I* som fører fettsyrer fra Cytosol til Mitokondire-Matrix. Malonyl-CoA er også prod av Acetyl-CoA karboksylase første steg i fettsyresyntese.
+* **Malonyl-CoA** vil altså *øke* syntese ved å aktivere syntese i Cytosol, og *hemme* opptak av *Fatty-Acyl-Carnitine*, det første steget i Beta-oksidasjon.
 
 ## Chapter 7 Desaturation and chain elongation.
 ##### Elongering
