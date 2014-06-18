@@ -145,7 +145,17 @@ FADH2
 
 *Fatty acid desaturation system*
 
+**Tre beskrevne gen-klasser
+1. DELTA-9 desuturaser
+	* SCD1, SCD5 mest viktig i Menneske
+
+2. DELTA 5 og DELTA 6 desaturaser
+	* D5D og D6D
+
+3. FADS3 Ukjent Funksjon når boken ble skrevet.
+
 ![](http://www.pearsonhighered.com/mathews/ch18/fi18p32.gif)
+
 
 * DELTA-9 desauturase eller Steroyl-CoA desaturase som katalyserer mettede Acyl-Coa-fettsyrer til umettede fettsyrer. Most notably: `18-karbon-fettsyre (Acyl-CoA) 18:0 til oljesyre, 18:1`. Lager en dobbeltbinding 9 karboner fra karboksyl-gruppen (COO-). Er under kopleks hormonell kontroll.
 **Desaturerer også *:0 fettsyrer med C12-19 karboner**
@@ -153,8 +163,8 @@ FADH2
 * SCD1 og SDC5 mest studert. SCD5 mest aktiv i hjernen og pankreas og mutasjoner er forbundet med hareskår hos mennesker.
 
 #### Andre desaturaser
-**FADS3**
-* 
+
+
 
 **Esensielle fettsyrer** Med dobbeltbindinger beyond DELTA-9 pos. Karbon nr. 9 etter kaboksylgruppen.
 
@@ -164,7 +174,11 @@ Linolenic acid is an unsaturated fatty acid that is an essential fatty acid in m
 
 #### Regulering
 
+Tre klasser desaturaser beskrevet
+
 ![](https://258d512808b0f5199b6dcbfc8cea06f659c3242d.googledrive.com/host/0B-ZoxC2RSriJeXgyT0dNeVJSOWM/Skjermbilde_reg.PNG)
+
+
 
 ## Lipoprotein Receptors
 
