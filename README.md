@@ -98,28 +98,24 @@ General Fatty Acid Formula
 
 General chemical structure of an acyl-CoA, where R is a fatty acid side chain  --> ![](http://upload.wikimedia.org/wikipedia/commons/1/13/Acyl-CoA2.svg) 
 
-FA oxidation on [Wikpedia](http://en.wikipedia.org/wiki/Beta_oxidation)
-In the words of Wikipedia:
-> "Beta-oxidation is the process by which fatty acid molecules are broken down in the mitochondria to generate acetyl-coA, which enters the citric acid cycle, and NADH and FADH2, which are used by the electron transport chain."
-
-#### Beta oksydasjon
-Hvert andre C fra karbonyl-ende av acyl-CoA bli oksydert til Acetyl CoA og prod Reduksjonsagenter for ATP-prod.
-
-
-
-#### Regulering
-Malonyl-CoA alosteriks hemmer av *Carnitine Acyl transferase I*
-
-
-#### 3.3 β-oxidation of unsaturated fatty acids
-Legg til mer tekst.
-
 NADH 
 > In metabolism, NAD+ is involved in redox reactions, carrying electrons from one reaction to another. 
 
 FADH2
->  flavin adenine dinucleotide (FAD) is a redox cofactor involved in several important reactions in metabolism. 
+>  flavin adenine dinucleotide (FAD) is a redox cofactor involved in several important reactions in metabolism.
 
+#### Beta oksydasjon
+Hvert andre C fra karbonyl-ende av acyl-CoA bli oksydert til Acetyl CoA og prod Reduksjonsagenter for ATP-prod.
+
+FA oxidation on [Wikpedia](http://en.wikipedia.org/wiki/Beta_oxidation)
+In the words of Wikipedia:
+> "Beta-oxidation is the process by which fatty acid molecules are broken down in the mitochondria to generate acetyl-coA, which enters the citric acid cycle, and NADH and FADH2, which are used by the electron transport chain."
+
+#### 3.3 β-oxidation of unsaturated fatty acids
+Legg til mer tekst.
+
+#### Regulering
+Malonyl-CoA alosteriks hemmer av *Carnitine Acyl transferase I*
 
 ## Chapter 7 Desaturation and chain elongation.
 ##### Elongering
