@@ -111,8 +111,21 @@ FA oxidation on [Wikpedia](http://en.wikipedia.org/wiki/Beta_oxidation)
 In the words of Wikipedia:
 > "Beta-oxidation is the process by which fatty acid molecules are broken down in the mitochondria to generate acetyl-coA, which enters the citric acid cycle, and NADH and FADH2, which are used by the electron transport chain."
 
+![](http://www.pearsonhighered.com/mathews/ch18/fi18p13.gif)
+
+* Reaction 1: The Initial **Dehydrogenation** (Diagram, Figure 18.17)
+Catalyzed by **fatty acyl-CoA dehydrogenase**
+Electrons passed to enzyme-bound FAD and then to Coenzyme Q (like succinate dehydrogenase)
+
+* Reactions 2 and 3: **Hydration and Dehydrogenation**
+Catalyzed by enoyl-CoA hydratase and 3-hydroxyacyl-CoA dehydrogenase, respectively.
+Electrons passed to NAD+
+
+* Reaction 4: **Thiolytic Cleavage**
+Catalyzed by -ketothiolase (thiolase)
+
 #### 3.3 β-oxidation of unsaturated fatty acids
-Legg til mer tekst.
+* 
 
 #### Regulering
 Malonyl-CoA alosteriks hemmer av *Carnitine Acyl transferase I*
