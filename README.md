@@ -125,7 +125,17 @@ Electrons passed to NAD+
 Catalyzed by -ketothiolase (thiolase)
 
 #### 3.3 β-oxidation of unsaturated fatty acids
-* 
+Enoyl-CoA Hydratase, a key enzyme in -oxidation of saturated fatty acids, acts on trans double bonds, but cannot act on the cis double bonds of unsaturated fatty acids. Instead, cells must rely on two additional enzymes, enoyl-CoA isomerase and 2,4-dienoyl-CoA reductase, to complete the -oxidation of unsaturated fatty acids. The activity of these enzymes is shown in Figure 18.18.
+
+![](http://www.pearsonhighered.com/mathews/ch18/fi18p18.gif)
+
+1. Enoyl-CoA Isomerase catalyzes conversion of cis double bonds at positions 3-4 to trans double bonds at positions 2-3.
+
+2. 2,4-Dienoyl-CoA Reductase catalyzes the reduction of the conjugated double bonds, cis 4-5 and trans 2-3 to a single cis double bond between carbons 3-4. This reaction uses electrons from NADPH.
+
+* In each case, enoyl-CoA isomerase and 2,4-dienoyl-CoA reductase converts an intermediate with a cis double bond into an intermediate with a trans double bond. Moreover, the trans double bond has the appropriate structure to be handled by the enzymes involved in the -oxidation of saturated fatty acids.
+
+* It should be noted that enoyl-CoA isomerase and 2,4-dienoyl-CoA reductase only help metabolize **dietary** unsaturated fatty acids with double bonds in the **cis configuration**. Dietary fatty acids with **trans double bonds are not** readily metabolized and may pose a health hazard.
 
 #### Regulering
 Malonyl-CoA alosteriks hemmer av *Carnitine Acyl transferase I*
