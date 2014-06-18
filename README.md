@@ -90,27 +90,29 @@ Dette kommer via citrat som passerer mitokondriemembranen.
 3. Beta-oksidasjon
  * Lager NADH og FADH2 til elktrontransportkjeden og prod av ATP.
 
-
-#### Beta oksydasjon
-Hvert andre C fra karbonyl-ende av acyl-CoA bli oksydert til Acetyl CoA og prod Reduksjonsagenter for ATP-prod.
-
-#### Regulering
-Malonyl-CoA alosteriks hemmer av *Carnitine Acyl transferase I*
-
 **All produksjon av energi skjer i mitokondriet, både Oksidering samt celleånding. Krebs-syklus.**
 
-#### 3.3 β-oxidation of unsaturated fatty acids
-Legg til mer tekst.
-
-Fettsyre: Karboksylsyre med lang karbonkjede. Karboksylsyre
+**Fettsyre**: Karboksylsyre med lang karbonkjede. Karboksylsyre
 General Fatty Acid Formula
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Carboxylic-acid.svg/300px-Carboxylic-acid.svg.png)
+
+General chemical structure of an acyl-CoA, where R is a fatty acid side chain  --> ![](http://upload.wikimedia.org/wikipedia/commons/1/13/Acyl-CoA2.svg) 
 
 FA oxidation on [Wikpedia](http://en.wikipedia.org/wiki/Beta_oxidation)
 In the words of Wikipedia:
 > "Beta-oxidation is the process by which fatty acid molecules are broken down in the mitochondria to generate acetyl-coA, which enters the citric acid cycle, and NADH and FADH2, which are used by the electron transport chain."
 
-General chemical structure of an acyl-CoA, where R is a fatty acid side chain  --> ![](http://upload.wikimedia.org/wikipedia/commons/1/13/Acyl-CoA2.svg) 
+#### Beta oksydasjon
+Hvert andre C fra karbonyl-ende av acyl-CoA bli oksydert til Acetyl CoA og prod Reduksjonsagenter for ATP-prod.
+
+
+
+#### Regulering
+Malonyl-CoA alosteriks hemmer av *Carnitine Acyl transferase I*
+
+
+#### 3.3 β-oxidation of unsaturated fatty acids
+Legg til mer tekst.
 
 NADH 
 > In metabolism, NAD+ is involved in redox reactions, carrying electrons from one reaction to another. 
@@ -191,6 +193,24 @@ Linolenic acid is an unsaturated fatty acid that is an essential fatty acid in m
 * LXR
 
 ![](https://258d512808b0f5199b6dcbfc8cea06f659c3242d.googledrive.com/host/0B-ZoxC2RSriJeXgyT0dNeVJSOWM/Skjermbilde_reg.PNG)
+
+## Lipprotein Oversikt
+
+![](http://www.pearsonhighered.com/mathews/ch18/fi18p7.gif)
+
+## Lipoprotein structure
+* **Density reflect sammensetning av lipider og proteiner.**
+
+Chylomicroner --> VLDL--> IDL (VLDL remains) --> LDL --> HDL --> (VHDL)
+
+PHOSPHOLIPDIER + CHOLESTERYL ESTERS + TRIGLYCERIDER) + protein --> PROTEIN + lipids
+
+![](https://258d512808b0f5199b6dcbfc8cea06f659c3242d.googledrive.com/host/0B-ZoxC2RSriJeXgyT0dNeVJSOWM/PL_structure.PNG)
+
+#### Main apolipoprotein function
+* help solubilize neutral lipids in circulation
+* receptor recognition
+* modulation of enzyme activities
 
 ## Lipoprotein Receptors
 
