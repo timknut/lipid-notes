@@ -146,6 +146,7 @@ FADH2
 *Fatty acid desaturation system*
 
 **Tre beskrevne gen-klasser**
+
 1. DELTA-9 desuturaser	*SCD1, SCD5 mest viktig i Menneske*
 2. DELTA 5 og DELTA 6 desaturaser *D5D og D6D*
 3. FADS3 *Ukjent Funksjon når boken ble skrevet.*
