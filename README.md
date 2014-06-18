@@ -58,12 +58,15 @@ Dette kommer via citrat som passerer mitokondriemembranen.
 *Fettsyrene blir koblet på glycerol til triaceyl-glyserider og syntetisert til VLDL i leveren og transportert til resten av kroppen*
 
 #### Regulering
-**Acetyl-CoA karboksylase** Rate limiting enzyme..
-1. Legger til karboksylgruppe til Acetyl-CoA --> Malonyl-CoA.
-Pos regulering:
+**Acetyl-CoA karboksylase** *Rate limiting enzyme..*
+	
+	* Legger til karboksylgruppe til Acetyl-CoA --> Malonyl-CoA.
+
+**Pos regulering:**
   * Alosterisk (molekyl fester seg på anne sted på enzymet) ved **Citrat** Regulerer oppover/fremover-
   * Hormonell: Insulin (Trenger fettsyresyntese etter høy glukose i blodet)
-Neg Regulering:
+
+**Neg Regulering:**
   * Hormonell:Glukagon (Bryter ned fettsyrer for energi.)
   * Alosterisk: Langkjedede fettsyrer. (Neg tilbakekobling)
 
