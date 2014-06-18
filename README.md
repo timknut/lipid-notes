@@ -147,14 +147,22 @@ FADH2
 
 ![](http://www.pearsonhighered.com/mathews/ch18/fi18p32.gif)
 
-The enzyme that **creates oleic acid and palmitoleic acid** from **stearate and palmitate**, respectively, is called a "DELTA-9" enzyme, because it creates a double bond nine carbons from the carboxyl group of the fatty acids. Similar enzymes in mammalian systems include 5 and 6 desaturases, which are under complex hormonal control.
+* DELTA-9 desauturase eller Steroyl-CoA desaturase som katalyserer mettede Acyl-Coa-fettsyrer til umettede fettsyrer. Most notably: `18-karbon-fettsyre (Acyl-CoA) 18:0 til oljesyre, 18:1`. Lager en dobbeltbinding 9 karboner fra karboksyl-gruppen (COO-). Er under kopleks hormonell kontroll.
+**Desaturerer også *:0 fettsyrer med C12-19 karboner**
 
+* SCD1 og SDC5 mest studert. SCD5 mest aktiv i hjernen og pankreas og mutasjoner er forbundet med hareskår hos mennesker.
 
-**Esensielle fettsyrer**
+#### Andre desaturaser
+**FADS3**
+* 
+
+**Esensielle fettsyrer** Med dobbeltbindinger beyond DELTA-9 pos. Karbon nr. 9 etter kaboksylgruppen.
+
 Linolenic acid is an unsaturated fatty acid that is an essential fatty acid in mammals because they cannot synthesize double bonds in fatty acids beyond position `DELTA-9`. This makes linoleic acid and linolenic acid essential in mammalian diets, since they have double bonds beyond position `DELTA-9` (at positions 9,12 and at positions 9,12, and 15 for linoleic and linolenic acid, respectively).
 
-
 ![](http://www.pearsonhighered.com/mathews/KL/LINOLEN.GIF)
+
+#### Regulering
 
 
 ## Lipoprotein Receptors
