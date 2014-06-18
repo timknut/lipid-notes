@@ -159,9 +159,13 @@ FADH2
 
 * SCD1 og SDC5 mest studert. SCD5 mest aktiv i hjernen og pankreas og mutasjoner er forbundet med hareskår hos mennesker.
 
-#### Andre desaturaser
+#### Desaturaser og samhandling med Elovl enzymer
+* Enkelt sagt vil SCD konvertere C12 til C19 mettet til enumettet.
+* Videre jobber Elovl sammen med D5D og D6D for å lage flerumettede fettsyrer som Omega-3 (DHA) og Omega-6.
 
+**Syntese av omega 3 og 6.**
 
+![](https://258d512808b0f5199b6dcbfc8cea06f659c3242d.googledrive.com/host/0B-ZoxC2RSriJeXgyT0dNeVJSOWM/elong_desat.PNG)
 
 **Esensielle fettsyrer** Med dobbeltbindinger beyond DELTA-9 pos. Karbon nr. 9 etter kaboksylgruppen.
 
