@@ -164,6 +164,7 @@ Linolenic acid is an unsaturated fatty acid that is an essential fatty acid in m
 
 #### Regulering
 
+![](https://258d512808b0f5199b6dcbfc8cea06f659c3242d.googledrive.com/host/0B-ZoxC2RSriJeXgyT0dNeVJSOWM/Skjermbilde_reg.PNG)
 
 ## Lipoprotein Receptors
 
