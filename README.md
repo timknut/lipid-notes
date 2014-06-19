@@ -30,6 +30,8 @@ Lipidnotater
 ### Viktig prinsipp for regulering:
 
 * **PPAR-alfa- induserer fettsyreoksiderings-gener**
+* Derav gener for: fatty acid transport, fatty binding and activation, and peroxisomal and mitochondrial fatty acid β-oxidation. (including PDK4, ACOX1, and CPT1.)
+* PPARS aktiveres av LCFA. 
 * **SREBP-1 induserer syntese gener.**
 **SREBP-1c is responsible for regulating the genes required for de novo lipogenesis.**
 *SREBP er også oppregulert av insulin og kolesterol derivater. Anabole hormoner.*
