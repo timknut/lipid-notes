@@ -31,6 +31,10 @@ Lipidnotater
 
 * **PPAR-alfa- induserer fettsyreoksiderings-gener**
 * **SREBP-1 induserer syntese gener.**
+**SREBP-1c is responsible for regulating the genes required for de novo lipogenesis.**
+*SREBP er også oppregulert av insulin og kolesterol derivater. Anabole hormoner.*
+**I ku kan det virke som PPARg er med å nedregulere SREBP og dermed lipogenese.** 
+
 
 ## Cahpter 6 fatty acid synthesis
 **Først og fremst:** 
