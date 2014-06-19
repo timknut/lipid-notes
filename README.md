@@ -3,6 +3,7 @@ Lipidnotater
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [Lipidnotater](#user-content-lipidnotater)
+		- [Viktig prinsipp for regulering:](#user-content-viktig-prinsipp-for-regulering)
 	- [Cahpter 6 fatty acid synthesis](#user-content-cahpter-6-fatty-acid-synthesis)
 			- [Forholdet mellom Karbohydrat og Lipid-syntese](#user-content-forholdet-mellom-karbohydrat-og-lipid-syntese)
 			- [Likheter mellom oksidasjon og syntese:](#user-content-likheter-mellom-oksidasjon-og-syntese)
@@ -10,16 +11,21 @@ Lipidnotater
 			- [Regulering](#user-content-regulering)
 	- [Chap 5. Oxidation of fatty acids in eukaryotes](#user-content-chap-5-oxidation-of-fatty-acids-in-eukaryotes)
 			- [Generell bakgrunn:](#user-content-generell-bakgrunn)
-			- [Beta oksydasjon](#user-content-beta-oksydasjon)
-			- [Regulering](#user-content-regulering-1)
+			- [Beta oksidasjon](#user-content-beta-oksidasjon)
 			- [3.3 β-oxidation of unsaturated fatty acids](#user-content-33-%CE%B2-oxidation-of-unsaturated-fatty-acids)
+			- [Regulering](#user-content-regulering-1)
 	- [Chapter 7 Desaturation and chain elongation.](#user-content-chapter-7-desaturation-and-chain-elongation)
 				- [Elongering](#user-content-elongering)
 			- [Viktige enzymer](#user-content-viktige-enzymer)
 			- [Desaturering](#user-content-desaturering)
+			- [Desaturaser og samhandling med Elovl enzymer](#user-content-desaturaser-og-samhandling-med-elovl-enzymer)
+			- [Regulering av desaturaser og Elongaser](#user-content-regulering-av-desaturaser-og-elongaser)
+	- [Lipprotein Oversikt](#user-content-lipprotein-oversikt)
+	- [Lipoprotein structure](#user-content-lipoprotein-structure)
+			- [Main apolipoprotein function](#user-content-main-apolipoprotein-function)
 	- [Lipoprotein Receptors](#user-content-lipoprotein-receptors)
 			- [LDL receptors](#user-content-ldl-receptors)
-
+			- [Mutations](#user-content-mutations)
 
 ### Viktig prinsipp for regulering:
 
