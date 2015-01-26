@@ -41,7 +41,7 @@ Lipidnotater
 ## Cahpter 6 fatty acid synthesis
 **Først og fremst:** 
 #### Forholdet mellom Karbohydrat og Lipid-syntese
-![](http://www.pearsonhighered.com/mathews/ch18/fi18p22.gif)
+![](http://web.squ.edu.om/med-Lib/MED_CD/E_CDs/Electronic%20Study%20Guide%20of%20Biochemistry/ch18/fi18p22.gif)
 #### Likheter mellom oksidasjon og syntese:
 ![](http://www.pearsonhighered.com/mathews/ch18/fi18p23.gif)
 
