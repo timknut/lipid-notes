@@ -121,7 +121,7 @@ FA oxidation on [Wikpedia](http://en.wikipedia.org/wiki/Beta_oxidation)
 In the words of Wikipedia:
 > "Beta-oxidation is the process by which fatty acid molecules are broken down in the mitochondria to generate acetyl-coA, which enters the citric acid cycle, and NADH and FADH2, which are used by the electron transport chain."
 
-![](http://www.pearsonhighered.com/mathews/ch18/fi18p13.gif)
+![](http://web.squ.edu.om/med-Lib/MED_CD/E_CDs/Electronic%20Study%20Guide%20of%20Biochemistry/ch18/fi18p13.htm)
 
 * Reaction 1: The Initial **Dehydrogenation** (Diagram, Figure 18.17)
 Catalyzed by **fatty acyl-CoA dehydrogenase**
@@ -137,7 +137,7 @@ Catalyzed by -ketothiolase (thiolase)
 #### 3.3 β-oxidation of unsaturated fatty acids
 Enoyl-CoA Hydratase, a key enzyme in -oxidation of saturated fatty acids, acts on trans double bonds, but cannot act on the cis double bonds of unsaturated fatty acids. Instead, cells must rely on two additional enzymes, enoyl-CoA isomerase and 2,4-dienoyl-CoA reductase, to complete the -oxidation of unsaturated fatty acids. The activity of these enzymes is shown in Figure 18.18.
 
-![](http://www.pearsonhighered.com/mathews/ch18/fi18p18.gif)
+![](http://web.squ.edu.om/med-Lib/MED_CD/E_CDs/Electronic%20Study%20Guide%20of%20Biochemistry/ch18/fi18p18.htm)
 
 1. Enoyl-CoA Isomerase catalyzes conversion of cis double bonds at positions 3-4 to trans double bonds at positions 2-3.
 
