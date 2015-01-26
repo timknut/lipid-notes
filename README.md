@@ -70,7 +70,7 @@ Dette kommer via citrat som passerer mitokondriemembranen.
 * Fatty acids are synthesized in the cytosol, whereas acetyl CoA is formed from pyruvate in mitochondria. Hence, acetyl CoA must be transferred from mitochondria to the cytosol. *The barrier to acetyl CoA is bypassed by citrate, which carries acetyl groups across the inner mitochondrial membrane*
 * **Elongation by the fatty acid synthase complex stops on formation of palmitate (C16). *Further elongation and the insertion of double bonds are carried out by other enzyme systems*.** 
 
-![](http://www.pearsonhighered.com/mathews/ch18/fi18p27.gif)
+![](http://web.squ.edu.om/med-Lib/MED_CD/E_CDs/Electronic%20Study%20Guide%20of%20Biochemistry/ch18/fi18p27.htm)
 
 **Endelig skjebne**
 *Fettsyrene blir koblet på glycerol til triaceyl-glyserider og syntetisert til VLDL i leveren og transportert til resten av kroppen*
